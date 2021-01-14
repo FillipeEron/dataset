@@ -294,4 +294,67 @@ Web
 	Url = {https://chikungunyablog.wordpress.com/tag/chikungunya-rash-picture/},
 	Urlaccessdate = {29 de out. de 2020},
 	Year = {2020},
-	Bdsk-Url-1 = {https://chikungunyablog.wordpress.com/tag/chikungunya-rash-picture/}}
+	Bdsk-Url-1 = {https://chikungunyablog.wordpress.com/tag/chikungunya-rash-picture/}} 
+	
+Web
+@misc{neg_01,
+	Author = {João Tassinary},
+	Title = {Anatomia e Sistema Tegumentar},
+	Url = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2020},
+	Bdsk-Url-1 = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/}}
+
+Web
+@misc{neg_02,
+	Author = {João Tassinary},
+	Title = {Anatomia e Sistema Tegumentar},
+	Url = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2020},
+	Bdsk-Url-1 = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/}}
+
+Web
+@misc{neg_03,
+	Author = {João Tassinary},
+	Title = {Anatomia e Sistema Tegumentar},
+	Url = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2020},
+	Bdsk-Url-1 = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/}}
+
+Web
+@misc{neg_04,
+	Author = {João Tassinary},
+	Title = {Anatomia e Sistema Tegumentar},
+	Url = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2020},
+	Bdsk-Url-1 = {https://br.pinterest.com/joaotassinary/anatomia-e-sistema-tegumentar/}}
+
+Web
+@misc{neg_05,
+	Author = {Oleh zhafira},
+	Title = {Dry Patch Of Skin On Ankle },
+	Url = {https://petfindernow.blogspot.com/2020/07/dry-patch-of-skin-on-ankle.html},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2020},
+	Bdsk-Url-1 = {https://petfindernow.blogspot.com/2020/07/dry-patch-of-skin-on-ankle.html}}
+
+Web
+@misc{neg_06,
+	Author = {South West Illinois News Reports},
+	Title = {WALGREENS DRUG STORE: Walgreens Bus Tour: Destination Healthy Skin},
+	Url = {https://swillinoisnews.com/stories/512615962-walgreens-drug-store-walgreens-bus-tour-destination-healthy-skin},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2019},
+	Bdsk-Url-1 = {https://swillinoisnews.com/stories/512615962-walgreens-drug-store-walgreens-bus-tour-destination-healthy-skin}}
+
+Web
+@misc{neg_07,
+	Author = {Tom Freitas},
+	Title = {Pele humana},
+	Url = {https://br.pinterest.com/pin/527343437594458911/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id={{default.session}}&amp_url=https%3A%2F%2Fbr.pinterest.com%2Famp%2Fpin%2F527343437594458911%2F},
+	Urlaccessdate = {29 de out. de 2020},
+	Year = {2019},
+	Bdsk-Url-1 = {https://br.pinterest.com/pin/527343437594458911/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id={{default.session}}&amp_url=https%3A%2F%2Fbr.pinterest.com%2Famp%2Fpin%2F527343437594458911%2F}}
